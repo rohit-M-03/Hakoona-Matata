@@ -1,7 +1,7 @@
 # Hakoona-Matata
-HAKOONA-MATATA : CITIZEN SECURITY APP
-Description:
-The Citizen Safety App is a groundbreaking application designed to safeguard individuals against cybercrimes by detecting and flagging malicious or fraudulent indicators in real-time. This app empowers users to protect themselves from online threats by analysing various elements such as mobile numbers, SMS headers, URL links, UPI addresses, Bitcoin wallet addresses, and SMS templates to identify potential risks and alert users promptly.
+# HAKOONA-MATATA : CITIZEN SECURITY APP
+# Description:
+# The Citizen Safety App is a groundbreaking application designed to safeguard individuals against cybercrimes by detecting and flagging malicious or fraudulent indicators in real-time. This app empowers users to protect themselves from online threats by analysing various elements such as mobile numbers, SMS headers, URL links, UPI addresses, Bitcoin wallet addresses, and SMS templates to identify potential risks and alert users promptly.
 
 Features:
 Real-time Malicious Indicator Detection: The app continuously monitors the incoming data such as SMS, URLs, and other digital communication channels for potential threats.
