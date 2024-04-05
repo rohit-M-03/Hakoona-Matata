@@ -8,6 +8,7 @@ def upi(st):
 
 def upicheck(st):
     return upi(st)
-
-st = "1234"
-print(upi(st))
+    
+if __name__ == "__main__":
+    st=sys.argv[0]
+    upi(st)
