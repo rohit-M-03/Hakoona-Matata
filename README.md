@@ -22,6 +22,7 @@ Run the File:</b> Open a terminal or command prompt, navigate to the directory c
 `!pip install blockcypher`<br>
 
 # Usage:
+<img src="ui.jpg"  />
 <b>Step 1 - Run the Python File:</b>  Launch the Python file using the instructions provided in the Installation section.<br>
 <b>Step 2 - Input Details: </b> Enter the required details such as mobile number, SMS content, URL link, UPI ID, and Bitcoin Wallet address into the designated fields.<br>
 <b>Step 3 - Click Submit: </b> After entering the details, click the submit button to initiate the analysis process.<br>
